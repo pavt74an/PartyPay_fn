@@ -9,7 +9,7 @@ const Header = ({ onLoginClick }) => {
 				<div className="flex justify-between items-center">
 					<Link to="/" className="flex items-center">
 						<span className="text-2xl font-bold text-blue-600">
-							แอพแชร์ค่าใช้จ่าย
+							Party Pay
 						</span>
 					</Link>
 
